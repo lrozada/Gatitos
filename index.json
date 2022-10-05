@@ -1,0 +1,81 @@
+[
+ {
+        "nombre": "Dan",
+        "edad": 2,
+        "raza": "Munchkin",
+        "sexo": "Macho",
+        "pelaje": "Atigrado",
+        "vacunado": true,
+        "desparasitado": true,
+        "castrado": false,
+        "tamaño": "Chico",
+        "caracteristicas": ["Mimoso", "Juguetón"],
+      
+      "img": "https://i.pinimg.com/474x/0c/d0/47/0cd047dceffe283b7f4c16b626cdee55--short-legs-munchkin-kitten.jpg" 
+      },
+{
+    "nombre" : "Bruma",
+    "edad" : 1,
+    "raza" : "pirulx",
+    "sexo" : "hembra",
+    "pelaje":"gris",
+    "vacunado" : true,
+    "desparasitado" : true,
+    "castrado" : true, 
+    "tamaño" : "pequeño",
+    "caracteristicas": "juguetona",
+    "img": "https://cdn.pixabay.com/photo/2019/11/08/11/56/kitten-4611189_960_720.jpg"
+},
+{
+    "nombre":"JuanCat",
+    "edad":1,
+    "raza":"Común europeo",
+    "sexo":"macho",
+    "pelaje":"anaranjado y blanco",
+    "vacunado": true, 
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño":"mediano",
+    "caracteristicas":[
+        "extremadamente curioso",
+        "amigable",
+        "juguetón",
+        "cariñoso",
+        "pide salir a pasear"
+    ]
+},
+{
+    "nombre":"Pelusa",
+    "edad":4,
+    "raza":"persa",
+    "sexo":"hembra",
+    "pelaje":"largo",
+    "vacunado":"si", 
+    "desparasitado": "no",
+    "castrado":"no",
+    "tamaño":"mediano",
+    "caracteristicas":[
+        "mimosa",
+        "risueña",
+        "juguetóna"
+    ],
+    "img":"https://t2.ea.ltmcdn.com/es/posts/2/5/2/nombres_para_gatos_persas_machos_y_hembras_24252_600.jpg" 
+},
+{
+    "nombre":"Bills",
+    "edad":2,
+    "raza":"bambino",
+    "sexo":"macho",
+    "pelaje":"sin pelo",
+    "vacunado":"si", 
+    "desparasitado": "si",
+    "castrado":"si",
+    "tamaño":"mediano",
+    "caracteristicas":[
+        "dios de la destruccion",
+        "duerme",
+        "combate"
+    ],
+    "img":"https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=460,height=600,fit=cover/animal/breed/pictures/613f5a38b32b0632926026.jpg" 
+}
+]
