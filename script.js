@@ -6,7 +6,7 @@ const cardTitles = document.querySelectorAll('.card-title');
 let cardText = document.querySelectorAll('.card-text');
 const fotoGatos = document.querySelectorAll('.fotoGatos');
 
-console.log(cardText);
+// console.log(cardText);
 
 function cargarAnimales() {
     fetch('gatitos.json')
@@ -39,7 +39,7 @@ function cargarAnimales() {
         
         
        
-        console.log(ul);
+        // console.log(ul);
 
 
         });    

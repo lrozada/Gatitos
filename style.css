@@ -2,3 +2,12 @@ body {
     background-color: aqua;
     background: linear-gradient(90deg, rgb(192, 181, 143) 0%, rgb(214, 136, 136) 50%, rgb(128, 128, 128) 100%);
 }
+.card-text {
+    padding-top: 10px;
+}
+
+.fotoGatos {
+    height: 25rem;
+    width: auto;
+    /* object-fit: fill; */
+}
