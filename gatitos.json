@@ -1,9 +1,9 @@
 [
- {
+    {
         "nombre": "Dan",
         "edad": 2,
         "raza": "Munchkin",
-        "sexo": "Macho",
+        "sexo": "Macho", 
         "pelaje": "Atigrado",
         "vacunado": true,
         "desparasitado": true,
@@ -11,7 +11,7 @@
         "tamaño": "Chico",
         "caracteristicas": ["Mimoso", "Juguetón"],
       
-      "img": "https://i.pinimg.com/474x/0c/d0/47/0cd047dceffe283b7f4c16b626cdee55--short-legs-munchkin-kitten.jpg" 
+      "img": "https://s1.1zoom.me/big0/430/Cats_White_background_Kittens_Glance_Sitting_563499_802x1024.jpg" 
       },
 {
     "nombre" : "Bruma",
@@ -24,7 +24,7 @@
     "castrado" : true, 
     "tamaño" : "pequeño",
     "caracteristicas": "juguetona",
-    "img": "https://cdn.pixabay.com/photo/2019/11/08/11/56/kitten-4611189_960_720.jpg"
+    "img": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/fluffy-grey-cat-sitting-on-white-background-michal-bednarek.jpg"
 },
 {
     "nombre":"JuanCat",
@@ -42,7 +42,8 @@
         "juguetón",
         "cariñoso",
         "pide salir a pasear"
-    ]
+    ],
+    "img": "https://thumbs.dreamstime.com/b/el-gato-blanco-duerme-sobre-un-fondo-de-foto-vertical-brillante-en-papel-pintado-fotos-tomadas-kharkov-ucrania-uno-los-%C3%BAltimos-161089791.jpg"
 },
 {
     "nombre":"Pelusa",
@@ -59,7 +60,7 @@
         "risueña",
         "juguetóna"
     ],
-    "img":"https://t2.ea.ltmcdn.com/es/posts/2/5/2/nombres_para_gatos_persas_machos_y_hembras_24252_600.jpg" 
+    "img":"https://www.xtrafondos.com/wallpapers/vertical/gato-con-ojos-azules-6560.jpg" 
 },
 {
     "nombre":"Bills",
