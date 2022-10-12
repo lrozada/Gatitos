@@ -1,6 +1,6 @@
 body {
-    background-color: aqua;
-    background: linear-gradient(90deg, rgb(192, 181, 143) 0%, rgb(214, 136, 136) 50%, rgb(128, 128, 128) 100%);
+    /* background-color: aqua; */
+    background: linear-gradient(90deg, rgb(249, 173, 194) 0%, rgb(215, 249, 179) 50%, rgb(143, 239, 250) 100%);
 }
 .card-text {
     padding-top: 10px;
